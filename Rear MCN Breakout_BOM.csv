@@ -1,10 +1,11 @@
 Qty-1,Part References,Value,Package,Mfg Part Num,Mfg Name,VID,Vendor Part Num,Description,Type,Tolerance,Voltage Rating,Package,Value,Cost,Category,XREF
-4,"X-408, X-409, X-410, X-413",,M8-VERT-8POS,42-01146,Conec,*,*,CONN HEADER PNL MNT 8POS PIN PCB,Connector,*,*,M8,*,REF271,*,*
-2,"X-336, X-337",,MICROFIT-4-DUAL-VERT-SMD,043045-0418,Molex,DK,WM1802TR-ND,Header, MicroFit, 4pos, SMD, Vertical,Connector,*,*,*,*,REF272,*,*
-1,"X-517",,MICROCLASP-20-DUAL-RA,55959-2030,Molex,NW,09J7572,Micro-Clasp header, 20pos, 2 rows, RA, through-hole,Connector,*,*,*,*,1.13,Connectors,REF86
-1,"R1",1k,0603-RES,ERJ-3EKF1001V,Panasonic,NW,64R5308,Resistor, 1 kohm 100 mW, 1%, Thick Film, 0603,Resistor,1%,50V,0603,1k ohm,0.012,Passives,REF206
-1,"R10",2.2k,0603-RES,RC0603FR-102K2L,Yageo,NW,68R0123,Resistor, 2.2k ohm, Thick Film, 100 mW, 1%, 0603,Resistor,1%,*,603,2.2k ohm,REF218,*,*
-3,"C1, C2, C3",2.2u,0603-CAP,GRM188R61E225KA12D,Murata,NW,13T1193,Capacitor, Ceramic, 2.2UF, 10%, 25V, 0603, X5R,Capacitor,10%,25V,603,2.2 uF,0.107,Passives,REF21
-2,"R3, R7",5.6k,0603-RES,ERJ-3EKF5601V,Panasonic,NW,64R5354,Resistor, 5.6 kohm, 100 mW, 1%, 0603,Resistor,1%,75 V,603,5.6 kohm,0.096,Passives,REF233
-3,"R4, R8, R9",10k,0603-RES,RC0603JR-1010KL,Yageo,NW,68R0215,Resistor, 10k ohm 100 mW, 5%, 100ppm, 0603,Resistor,5%,50V,603,10k ohm,0.008,Passives,REF209
-3,"F1, F2, F3",500mA,0603,MF-FSMF050X-2,Bourns Inc,NW,87W5964,Fuse, Resettable PTC, 6V, 500mA, 0603,PTC,*,6V,603,500mA,REF190,*,*
+4,"X-408, X-409, X-410, X-413",,M8-VERT-8POS,42-01146,Conec,*,*,CONN HEADER PNL MNT 8POS PIN PCB,Connector,*,*,M8,*,*,*,REF287
+2,"X-336, X-337",,MICROFIT-4-DUAL-VERT-SMD,043045-0418,Molex,DK,WM1802TR-ND,Header, MicroFit, 4pos, SMD, Vertical,Connector,*,*,*,*,*,*,REF288
+1,"X-517",,MICROCLASP-20-DUAL-RA,55959-2030,Molex,NW,09J7572,Micro-Clasp header, 20pos, 2 rows, RA, through-hole,Connector,*,*,*,*,1.13,Connectors,REF89
+1,"R10",1k,0603-RES,ERJ-3EKF1001V,Panasonic,NW,64R5308,Resistor, 1 kohm 100 mW, 1%, Thick Film, 0603,Resistor,1%,50V,603,1k ohm,0.012,Passives,REF221
+1,"R11",2.2k,0603-RES,RC0603FR-102K2L,Yageo,NW,68R0123,Resistor, 2.2k ohm, Thick Film, 100 mW, 1%, 0603,Resistor,1%,*,603,2.2k ohm,*,*,REF233
+3,"C1, C2, C3",2.2u,0603-CAP,GRM188R61E225KA12D,Murata,NW,13T1193,Capacitor, Ceramic, 2.2UF, 10%, 25V, 0603, X5R,Capacitor,10%,25V,603,2.2 uF,0.107,Passives,REF24
+2,"R1, R3",5.6k,0603-RES,ERJ-3EKF5601V,Panasonic,NW,64R5354,Resistor, 5.6 kohm, 100 mW, 1%, 0603,Resistor,1%,75 V,603,5.6 kohm,0.096,Passives,REF249
+5,"R2, R4, R6, R8, R9",10k,0603-RES,RC0603JR-1010KL,Yageo,NW,68R0215,Resistor, 10k ohm 100 mW, 5%, 100ppm, 0603,Resistor,5%,50V,603,10k ohm,0.008,Passives,REF224
+2,"R5, R7",36k,0603-RES,RC0603FR-0736KL,Yageo,DK,311-36.0KHRCT-ND,Resistor, 36 kohm, 1%, 100 mW, 0603,Resistor,1%,75V,603,36k ohm,0.0108,Passives,REF243
+3,"F1, F2, F3",500mA,0603,MF-FSMF050X-2,Bourns Inc,NW,87W5964,Fuse, Resettable PTC, 6V, 500mA, 0603,PTC,*,6V,603,500mA,*,*,REF201
